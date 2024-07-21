@@ -15,6 +15,19 @@ Flags:
 
 ```
 
+## Install
+
+### MacOS
+
+```sh
+brew tap augustdev/splitcsv
+brew install splitcsv
+```
+
+### Linux/Windows
+
+Check the Download and Build sections.
+
 ## Download
 
 You can download precompiled binary in [Releases](https://github.com/AugustDev/splitcsv/releases/latest).
