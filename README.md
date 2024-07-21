@@ -15,6 +15,20 @@ Flags:
 
 ```
 
+## Download
+
+You can download precompiled binary in [Releases](https://github.com/AugustDev/splitcsv/releases/latest).
+
+## Build
+
+You should have Go installed.
+
+```sh
+make build-all
+```
+
+which will build binaries in `./bin` directory.
+
 ## Example usage
 
 ```sh
